@@ -1,8 +1,8 @@
 import os
 
 class Config(object):
-    API_ID = int(os.environ.get("API_ID", 6))
-    API_HASH = os.environ.get("API_HASH", None)
-    TOKEN = os.environ.get("TOKEN", None)
-    LOGS_CHAT = int(os.environ.get("LOGS_CHAT", False))
+    API_ID = 9272019
+    API_HASH = '71d8ffe98cde7147d1b37bf213eb9e4c'
+    TOKEN = '5290639327:AAGo2GhzTdw2fxRUM-TUyWZUAdf1ymoaUFM'
+    LOGS_CHAT = -1001563970806
 
